@@ -16,3 +16,5 @@ permalink: /archivers/python_lecture_01
             -원하는 블로그의 github 계정을 알아본다
             -해당 github repository를 fork 한다
             -레파지터리 이름을 자신의계정.github.io로 바꾼다.
+            -sublimetext 3를 깔아서 md 파일 생성
+            -_posts에 들어가서 upload 파일
