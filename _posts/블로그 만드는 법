@@ -1,0 +1,18 @@
+---
+2
+layout: post
+3
+title:  "블로그 만드는 법"
+4
+date:   2018-10-02 16:20:13
+5
+categories: Data_science
+6
+permalink: /archivers/python_lecture_01
+7
+---
+
+    ##블로그 만드는 법
+            -원하는 블로그의 github 계정을 알아본다
+            -해당 github repository를 fork 한다
+            -레파지터리 이름을 자신의계정.github.io로 바꾼다.
